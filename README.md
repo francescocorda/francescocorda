@@ -18,4 +18,4 @@ Luca Sabbioni, Francesco Corda and Marcello Restelli. [Meta Learning the Step Si
 
 📢 **Contacts**  
 [linkedin.com/francescocorda](https://www.linkedin.com/in/francescocorda)  
-francescocorda@outlook.com
+francesco.corda@outlook.com
